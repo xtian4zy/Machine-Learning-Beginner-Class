@@ -12,9 +12,9 @@ This is a concise overview of machine learning for beginners. It emphasizes the 
 
 In this class course, you will:
 
-* Understand what machine learning is all about and the problems it can solve.
-* Understand the difference between machine learning systems and traditional systems.
-* Learning the major types of machine learning systems.
+* Learn what machine learning is all about and the problems it can solve.
+* Learn the difference between machine learning systems and traditional systems.
+* Learn the major types of machine learning systems.
 * Learn about the different machine learning algorithms available for use.
 * Learn how to organize a successful machine learning project.
 * Learn how to execute machine learning projects.
